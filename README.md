@@ -1,8 +1,9 @@
 ### Hi there 👋
 ---
-### Name: 
+### Name: Hyeonwoo Park (Harrison Park)
 ### School: Purdue
-### Major: Computer Science and Data Science
+### Major: Computer Science & Data Science
+### GPA: 4.0
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/>
