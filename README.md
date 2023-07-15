@@ -5,6 +5,7 @@
 ### Grade: Rising Junior
 ### Major: Computer Science & Data Science
 ### GPA: 3.95
+### Email : ryaotuix@naver.com
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"><img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"><img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white"><img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white">
 ​
