@@ -1,4 +1,4 @@
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ilksh)](https://solved.ac/ryaotuix)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ryaotuix)](https://solved.ac/ryaotuix)
 
 ![](https://badges.peiyuan.ch/leetcode/ryaotuix/name)
 ![](https://badges.peiyuan.ch/leetcode/ryaotuix/solved)
